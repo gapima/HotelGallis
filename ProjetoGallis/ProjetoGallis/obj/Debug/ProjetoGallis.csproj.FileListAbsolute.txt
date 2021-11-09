@@ -1,0 +1,25 @@
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.exe.config
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.exe
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.pdb
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.AssemblyReference.cache
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Apresentacao.EsqueceuSenha.resources
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Form1.resources
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Apresentacao.MenuPrincipal.resources
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Properties.Resources.resources
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.GenerateResource.cache
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.exe
+C:\Users\Gabriel Lima\source\repos\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.pdb
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.exe.config
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.exe
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.pdb
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.AssemblyReference.cache
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Apresentacao.EsqueceuSenha.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Form1.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Apresentacao.MenuPrincipal.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Properties.Resources.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.GenerateResource.cache
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.CoreCompileInputs.cache
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.exe
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.pdb
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.MenuCadastro.resources
