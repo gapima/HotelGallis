@@ -26,5 +26,30 @@ namespace ProjetoGallis.MenuCadastro
         {
 
         }
+
+        private void MenuCadastro_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAcomodacoes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnHospedagem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCadastro_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRelatorio_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

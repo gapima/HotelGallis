@@ -41,6 +41,8 @@ namespace ProjetoGallis.MenuCadastro
             this.btnExcluirCliente = new System.Windows.Forms.Button();
             this.btnExcluirFu = new System.Windows.Forms.Button();
             this.btnExcluirQuartos = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -55,6 +57,7 @@ namespace ProjetoGallis.MenuCadastro
             this.btnCadastro.TabIndex = 13;
             this.btnCadastro.Text = "Cadastro";
             this.btnCadastro.UseVisualStyleBackColor = false;
+            this.btnCadastro.Click += new System.EventHandler(this.btnCadastro_Click);
             // 
             // btnHospedagem
             // 
@@ -66,6 +69,7 @@ namespace ProjetoGallis.MenuCadastro
             this.btnHospedagem.TabIndex = 12;
             this.btnHospedagem.Text = "Hospedagem";
             this.btnHospedagem.UseVisualStyleBackColor = false;
+            this.btnHospedagem.Click += new System.EventHandler(this.btnHospedagem_Click);
             // 
             // btnAcomodacoes
             // 
@@ -77,6 +81,7 @@ namespace ProjetoGallis.MenuCadastro
             this.btnAcomodacoes.TabIndex = 11;
             this.btnAcomodacoes.Text = "Acomodações";
             this.btnAcomodacoes.UseVisualStyleBackColor = false;
+            this.btnAcomodacoes.Click += new System.EventHandler(this.btnAcomodacoes_Click);
             // 
             // btnRelatorio
             // 
@@ -88,6 +93,7 @@ namespace ProjetoGallis.MenuCadastro
             this.btnRelatorio.TabIndex = 10;
             this.btnRelatorio.Text = "Gerar Relatório";
             this.btnRelatorio.UseVisualStyleBackColor = false;
+            this.btnRelatorio.Click += new System.EventHandler(this.btnRelatorio_Click);
             // 
             // pictureBox1
             // 
@@ -158,21 +164,48 @@ namespace ProjetoGallis.MenuCadastro
             this.btnExcluirQuartos.Text = "Excluir quartos";
             this.btnExcluirQuartos.UseVisualStyleBackColor = false;
             // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(603, 95);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(189, 29);
+            this.button1.TabIndex = 10;
+            this.button1.Text = "Gerar Relatório";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.btnRelatorio_Click);
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.PaleGoldenrod;
+            this.button2.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(410, 95);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(189, 29);
+            this.button2.TabIndex = 13;
+            this.button2.Text = "Cadastro";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.btnCadastro_Click);
+            // 
             // MenuCadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(794, 406);
+            this.ClientSize = new System.Drawing.Size(801, 460);
             this.Controls.Add(this.btnExcluirQuartos);
             this.Controls.Add(this.btnExcluirFu);
             this.Controls.Add(this.btnExcluirCliente);
             this.Controls.Add(this.btnCadQuartos);
             this.Controls.Add(this.btnCadFuncionario);
             this.Controls.Add(this.btnCadastrarCliente);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.btnCadastro);
             this.Controls.Add(this.btnHospedagem);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnAcomodacoes);
             this.Controls.Add(this.btnRelatorio);
             this.Controls.Add(this.pictureBox1);
@@ -180,6 +213,7 @@ namespace ProjetoGallis.MenuCadastro
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "MenuCadastro";
             this.Text = "MenuCadastro";
+            this.Load += new System.EventHandler(this.MenuCadastro_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
@@ -198,5 +232,7 @@ namespace ProjetoGallis.MenuCadastro
         private System.Windows.Forms.Button btnExcluirCliente;
         private System.Windows.Forms.Button btnExcluirFu;
         private System.Windows.Forms.Button btnExcluirQuartos;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
