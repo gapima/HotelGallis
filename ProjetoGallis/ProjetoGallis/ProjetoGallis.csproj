@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Apresentacao\btnCadastro.cs" />
     <Compile Include="Apresentacao\btnEsqueceuSenha.cs" />
     <Compile Include="Apresentacao\EsqueceuSenha.cs">
       <SubType>Form</SubType>
@@ -72,11 +73,11 @@
     <Compile Include="MenuCadastro\CadastroUsuario.Designer.cs">
       <DependentUpon>CadastroUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="MenuCadastro\MenuCadastro.cs">
+    <Compile Include="MenuCadastro\MenuCad.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MenuCadastro\MenuCadastro.Designer.cs">
-      <DependentUpon>MenuCadastro.cs</DependentUpon>
+    <Compile Include="MenuCadastro\MenuCad.Designer.cs">
+      <DependentUpon>MenuCad.cs</DependentUpon>
     </Compile>
     <Compile Include="Modelos\Controle.cs" />
     <Compile Include="Modelos\LoginDownComandos.cs" />
@@ -94,8 +95,8 @@
     <EmbeddedResource Include="MenuCadastro\CadastroUsuario.resx">
       <DependentUpon>CadastroUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MenuCadastro\MenuCadastro.resx">
-      <DependentUpon>MenuCadastro.cs</DependentUpon>
+    <EmbeddedResource Include="MenuCadastro\MenuCad.resx">
+      <DependentUpon>MenuCad.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjetoGallis.MenuCadastro;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,6 +24,17 @@ namespace ProjetoGallis.Apresentacao
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCadastro_Click(object sender, EventArgs e)
+        {
+            MenuCad Cadastro = new MenuCad();
+
+        }
+
+        private void MenuPrincipal_Load(object sender, EventArgs e)
         {
 
         }

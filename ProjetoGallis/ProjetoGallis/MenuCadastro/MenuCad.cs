@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProjetoGallis.MenuCadastro
 {
-    public partial class MenuCadastro : Form
+    public partial class MenuCad : Form
     {
-        public MenuCadastro()
+        public MenuCad()
         {
             InitializeComponent();
         }

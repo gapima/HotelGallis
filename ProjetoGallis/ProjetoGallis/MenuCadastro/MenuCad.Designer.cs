@@ -1,7 +1,7 @@
 ﻿
 namespace ProjetoGallis.MenuCadastro
 {
-    partial class MenuCadastro
+    partial class MenuCad
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace ProjetoGallis.MenuCadastro
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuCadastro));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuCad));
             this.btnCadastro = new System.Windows.Forms.Button();
             this.btnHospedagem = new System.Windows.Forms.Button();
             this.btnAcomodacoes = new System.Windows.Forms.Button();
@@ -189,7 +189,7 @@ namespace ProjetoGallis.MenuCadastro
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.btnCadastro_Click);
             // 
-            // MenuCadastro
+            // MenuCad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -211,7 +211,7 @@ namespace ProjetoGallis.MenuCadastro
             this.Controls.Add(this.pictureBox1);
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.Name = "MenuCadastro";
+            this.Name = "MenuCad";
             this.Text = "MenuCadastro";
             this.Load += new System.EventHandler(this.MenuCadastro_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
