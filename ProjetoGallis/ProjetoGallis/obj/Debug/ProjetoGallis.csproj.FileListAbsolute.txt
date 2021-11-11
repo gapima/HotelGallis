@@ -22,5 +22,5 @@ C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\ob
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.CoreCompileInputs.cache
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.exe
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.pdb
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.MenuCadastro.resources
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.CadastroUsuario.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.MenuCad.resources

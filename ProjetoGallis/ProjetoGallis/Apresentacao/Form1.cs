@@ -25,7 +25,8 @@ namespace ProjetoGallis
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MenuPrincipal MenuGeral = new MenuPrincipal();
+            MenuGeral.Show();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

@@ -67,6 +67,7 @@
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="DAL\Conexao.cs" />
+    <Compile Include="MenuCadastro\btnCadastrarCliente.cs" />
     <Compile Include="MenuCadastro\CadastroUsuario.cs">
       <SubType>Form</SubType>
     </Compile>

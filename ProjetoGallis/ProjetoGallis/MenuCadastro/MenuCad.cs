@@ -19,7 +19,8 @@ namespace ProjetoGallis.MenuCadastro
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            CadastroUsuario CadastroCliente = new CadastroUsuario();
+            CadastroCliente.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
