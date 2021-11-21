@@ -37,7 +37,37 @@ namespace ProjetoGallis.MenuCadastro
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAcomodacoes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnHospedagem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txbTelefone_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txbCPF_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
         {
 
         }

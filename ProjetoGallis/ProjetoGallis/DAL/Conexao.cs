@@ -12,12 +12,12 @@ namespace ProjetoGallis.DAL
         SqlConnection con = new SqlConnection();
         public Conexao()
         {
-            con.ConnectionString = @"";
+            con.ConnectionString = @"Data Source=DESKTOP-9AQ7FCC;Initial Catalog=HotalGalis;Integrated Security=True";
         }
 
         public SqlConnection conectar()
         {
-            if(con.State == System.Data.ConnectionState.Closed)
+            if (con.State == System.Data.ConnectionState.Closed)
             {
                 con.Open();
             }
@@ -29,7 +29,7 @@ namespace ProjetoGallis.DAL
             {
                 con.Close();
             }
-            
+
         }
     }
 }

@@ -8,31 +8,26 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProjetoGallis.Apresentacao
+namespace ProjetoGallis.MenuCadastro
 {
-    public partial class EsqueceuSenha : Form
+    public partial class CadastroFuncionario : Form
     {
-        public EsqueceuSenha()
+        public CadastroFuncionario()
         {
             InitializeComponent();
         }
 
-        private void EsqueceuSenha_Load(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void CadastroFuncionario_Load(object sender, EventArgs e)
         {
 
         }
@@ -42,7 +37,7 @@ namespace ProjetoGallis.Apresentacao
 
         }
 
-        private void btnEnviar_Click(object sender, EventArgs e)
+        private void btnCadastrar_Click(object sender, EventArgs e)
         {
 
         }

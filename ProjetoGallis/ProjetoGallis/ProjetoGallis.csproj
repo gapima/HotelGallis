@@ -60,14 +60,37 @@
     <Compile Include="Apresentacao\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Apresentacao\Hospedagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\Hospedagem.Designer.cs">
+      <DependentUpon>Hospedagem.cs</DependentUpon>
+    </Compile>
     <Compile Include="Apresentacao\MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Apresentacao\MenuPrincipal.Designer.cs">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Apresentacao\Reserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentacao\Reserva.Designer.cs">
+      <DependentUpon>Reserva.cs</DependentUpon>
+    </Compile>
     <Compile Include="DAL\Conexao.cs" />
-    <Compile Include="MenuCadastro\btnCadastrarCliente.cs" />
+    <Compile Include="MenuCadastro\CadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCadastro\CadastroFuncionario.Designer.cs">
+      <DependentUpon>CadastroFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCadastro\CadastroQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCadastro\CadastroQuarto.Designer.cs">
+      <DependentUpon>CadastroQuarto.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenuCadastro\CadastroUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,8 +113,20 @@
     <EmbeddedResource Include="Apresentacao\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\Hospedagem.resx">
+      <DependentUpon>Hospedagem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Apresentacao\MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentacao\Reserva.resx">
+      <DependentUpon>Reserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCadastro\CadastroFuncionario.resx">
+      <DependentUpon>CadastroFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCadastro\CadastroQuarto.resx">
+      <DependentUpon>CadastroQuarto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuCadastro\CadastroUsuario.resx">
       <DependentUpon>CadastroUsuario.cs</DependentUpon>
@@ -124,6 +159,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Imagem1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

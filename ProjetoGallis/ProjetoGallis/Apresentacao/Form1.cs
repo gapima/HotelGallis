@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ProjetoGallis.Apresentacao;
+using ProjetoGallis.Modelos;
 
 namespace ProjetoGallis
 {
@@ -25,8 +26,18 @@ namespace ProjetoGallis
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MenuPrincipal MenuGeral = new MenuPrincipal();
-            MenuGeral.Show();
+            Controle controle = new Controle();
+            controle.acessar(txbLogin.Text, txbSenha.Text);
+            if(controle.tem)
+            {
+                MessageBox.Show("Logado com sucesso", "Entrando", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MenuPrincipal MenuGeral = new MenuPrincipal();
+                MenuGeral.Show();
+            }
+            else
+            {
+                MessageBox.Show("Login não encontrado, verifque login e senha", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -49,6 +60,11 @@ namespace ProjetoGallis
         private void btnSair_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void txbSenha_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -52,5 +52,10 @@ namespace ProjetoGallis.MenuCadastro
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
