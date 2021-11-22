@@ -42,3 +42,14 @@ C:\Users\lafa\Desktop\galiss\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\P
 C:\Users\lafa\Desktop\galiss\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Apresentacao.Reserva.resources
 C:\Users\lafa\Desktop\galiss\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.CadastroFuncionario.resources
 C:\Users\lafa\Desktop\galiss\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.CadastroQuarto.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Apresentacao.Hospedagem.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Apresentacao.Reserva.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.CadastroFuncionario.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.CadastroQuarto.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.MenuCad.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Check In.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Check Out.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Financeiro.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Funcionário.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Hospedes.resources
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatórios.resources
