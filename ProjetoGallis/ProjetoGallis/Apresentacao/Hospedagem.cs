@@ -17,7 +17,7 @@ namespace ProjetoGallis.Apresentacao
     public partial class Hospedagem : Form
     {
         DataTable dt = new DataTable();
-        private object dataGridView;
+        //private object dataGridView;
 
         public Hospedagem()
         {
@@ -61,19 +61,20 @@ namespace ProjetoGallis.Apresentacao
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            dt = btnBuscar.GetDados(txtProcurar.Text);
-            dataGridView1.DataSource = dt;
+            //dt = btnBuscar.GetDados(txtProcurar.Text);
+            //dataGridView1.DataSource = dt;
+            
 
         }
-        public static DataTable GetData(string procurar = "")
-        {
-            var dt = new DataTable();
-            var sql = "SELECT ID, Dataentrada, Datasaida, FROM checkin";
-            if(procurar != "")
-            {
-                sql+= "Where titulo LIKE '%" + procurar + "%' OR"
-            }
-        }
+        //public static DataTable GetData(string procurar = "")
+        //{
+        //    //var dt = new DataTable();
+        //    //var sql = "SELECT ID, Dataentrada, Datasaida, FROM checkin";
+        //    //if(procurar != "")
+        //    //{
+        //    //    sql += "Where titulo LIKE '%" + procurar + "%' OR";
+        //    //}
+        //}
         
       
    
