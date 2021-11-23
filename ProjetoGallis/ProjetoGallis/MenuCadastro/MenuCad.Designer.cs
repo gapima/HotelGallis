@@ -127,6 +127,7 @@ namespace ProjetoGallis.MenuCadastro
             this.btnCadFuncionario.TabIndex = 15;
             this.btnCadFuncionario.Text = "Cadastrar funcionario";
             this.btnCadFuncionario.UseVisualStyleBackColor = true;
+            this.btnCadFuncionario.Click += new System.EventHandler(this.btnCadFuncionario_Click);
             // 
             // btnCadQuartos
             // 
@@ -136,6 +137,7 @@ namespace ProjetoGallis.MenuCadastro
             this.btnCadQuartos.TabIndex = 16;
             this.btnCadQuartos.Text = "Cadastrar quartos";
             this.btnCadQuartos.UseVisualStyleBackColor = true;
+            this.btnCadQuartos.Click += new System.EventHandler(this.btnCadQuartos_Click);
             // 
             // btnExcluirCliente
             // 

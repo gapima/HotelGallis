@@ -27,12 +27,14 @@ namespace ProjetoGallis
         private void button1_Click(object sender, EventArgs e)
         {
             Controle controle = new Controle();
-            controle.acessar(txbLogin.Text, txbSenha.Text);
-            if(controle.tem)
+
+
+            if (controle.tem)
             {
                 MessageBox.Show("Logado com sucesso", "Entrando", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 MenuPrincipal MenuGeral = new MenuPrincipal();
                 MenuGeral.Show();
+                this.Hide();
             }
             else
             {

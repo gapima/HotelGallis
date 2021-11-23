@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjetoGallis.Apresentacao;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,6 +22,7 @@ namespace ProjetoGallis.MenuCadastro
         {
             CadastroUsuario CadastroCliente = new CadastroUsuario();
             CadastroCliente.Show();
+            this.Hide();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -30,12 +32,12 @@ namespace ProjetoGallis.MenuCadastro
 
         private void MenuCadastro_Load(object sender, EventArgs e)
         {
-
+           
         }
 
         private void btnAcomodacoes_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
         }
 
         private void btnHospedagem_Click(object sender, EventArgs e)
@@ -54,6 +56,16 @@ namespace ProjetoGallis.MenuCadastro
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCadFuncionario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCadQuartos_Click(object sender, EventArgs e)
         {
 
         }

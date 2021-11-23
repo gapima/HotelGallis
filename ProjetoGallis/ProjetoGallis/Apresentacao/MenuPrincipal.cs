@@ -31,13 +31,14 @@ namespace ProjetoGallis.Apresentacao
         private void btnCadastro_Click(object sender, EventArgs e)
         {
             MenuCad Cadastro = new MenuCad();
+           
             Cadastro.Show();
-
+            this.Hide();
         }
-
+        
         private void MenuPrincipal_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void pictureBox15_Click(object sender, EventArgs e)

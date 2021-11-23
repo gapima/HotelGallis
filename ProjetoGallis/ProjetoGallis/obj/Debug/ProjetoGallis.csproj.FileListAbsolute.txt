@@ -51,3 +51,4 @@ C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bi
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.pdb
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.exe
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.pdb
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.AssemblyReference.cache
