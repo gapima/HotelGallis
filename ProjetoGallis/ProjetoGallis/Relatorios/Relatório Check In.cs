@@ -16,23 +16,5 @@ namespace ProjetoGallis.Relatórios
         {
             InitializeComponent();
         }
-
-        private void InitializeComponent()
-        {
-            this.SuspendLayout();
-            // 
-            // Relatório_Check_In
-            // 
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "Relatório_Check_In";
-            this.Load += new System.EventHandler(this.Relatório_Check_In_Load);
-            this.ResumeLayout(false);
-
-        }
-
-        private void Relatório_Check_In_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

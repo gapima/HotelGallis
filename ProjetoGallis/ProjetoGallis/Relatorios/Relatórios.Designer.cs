@@ -35,12 +35,12 @@ namespace ProjetoGallis.Relatórios
             this.btnHospedagem = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.label6 = new System.Windows.Forms.Label();
             this.btnHóspedes = new System.Windows.Forms.Button();
             this.btnCheckIn = new System.Windows.Forms.Button();
             this.btnCheckOut = new System.Windows.Forms.Button();
             this.btnFinanceiro = new System.Windows.Forms.Button();
             this.btnFuncionarios = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -100,18 +100,6 @@ namespace ProjetoGallis.Relatórios
             this.button2.Text = "Gerar Relatório";
             this.button2.UseVisualStyleBackColor = false;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Calibri", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(334, 157);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(133, 23);
-            this.label6.TabIndex = 23;
-            this.label6.Text = "Gerar Relatório";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.label6.Click += new System.EventHandler(this.label6_Click);
-            // 
             // btnHóspedes
             // 
             this.btnHóspedes.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -167,17 +155,29 @@ namespace ProjetoGallis.Relatórios
             this.btnFuncionarios.Text = "Funcionários";
             this.btnFuncionarios.UseVisualStyleBackColor = false;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Calibri", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(337, 158);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(133, 23);
+            this.label6.TabIndex = 29;
+            this.label6.Text = "Gerar Relatório";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
             // Relatórios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.btnFuncionarios);
             this.Controls.Add(this.btnFinanceiro);
             this.Controls.Add(this.btnCheckOut);
             this.Controls.Add(this.btnCheckIn);
             this.Controls.Add(this.btnHóspedes);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnHospedagem);
@@ -198,11 +198,11 @@ namespace ProjetoGallis.Relatórios
         private System.Windows.Forms.Button btnHospedagem;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button btnHóspedes;
         private System.Windows.Forms.Button btnCheckIn;
         private System.Windows.Forms.Button btnCheckOut;
         private System.Windows.Forms.Button btnFinanceiro;
         private System.Windows.Forms.Button btnFuncionarios;
+        private System.Windows.Forms.Label label6;
     }
 }

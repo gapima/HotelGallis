@@ -38,17 +38,11 @@ C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\ob
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.CadastroUsuario.resources
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.MenuCadastro.MenuCad.resources
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Properties.Resources.resources
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Check In.resources
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Check Out.resources
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Financeiro.resources
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Funcionário.resources
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatório Hospedes.resources
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.Relatorios.Relatórios.resources
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.GenerateResource.cache
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.CoreCompileInputs.cache
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.exe.config
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.exe
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\bin\Debug\ProjetoGallis.pdb
+C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.AssemblyReference.cache
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.exe
 C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.pdb
-C:\Users\gapima\Desktop\ProjetoGallis\HotelGallis\ProjetoGallis\ProjetoGallis\obj\Debug\ProjetoGallis.csproj.AssemblyReference.cache

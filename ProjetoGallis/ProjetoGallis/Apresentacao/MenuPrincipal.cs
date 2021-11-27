@@ -25,7 +25,13 @@ namespace ProjetoGallis.Apresentacao
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Hospedagem Hospedag = Hospedagem();
+            Hospedag.Show();
+        }
 
+        private Hospedagem Hospedagem()
+        {
+            throw new NotImplementedException();
         }
 
         private void btnCadastro_Click(object sender, EventArgs e)

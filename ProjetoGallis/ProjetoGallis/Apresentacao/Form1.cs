@@ -26,6 +26,7 @@ namespace ProjetoGallis
 
         private void button1_Click(object sender, EventArgs e)
         {
+          
             Controle controle = new Controle();
 
 
